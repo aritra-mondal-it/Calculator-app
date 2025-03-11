@@ -37,4 +37,4 @@ A basic calculator app built using **HTML, CSS, and JavaScript**. It performs ba
 You can check out a live demo [https://calculator-app-by-aritra.netlify.app/]()
 
 ## Screenshot
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](https://github.com/aritra-mondal-it/Calculator-app/blob/main/screenshot.png)
