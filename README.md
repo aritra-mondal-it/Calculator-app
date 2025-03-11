@@ -15,11 +15,11 @@ A basic calculator app built using **HTML, CSS, and JavaScript**. It performs ba
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/simple-calculator.git
+   git clone https://github.com/aritra-mondal-it/Calculator-app.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd simple-calculator
+   cd Calculator-app
    ```
 3. Open `index.html` in your browser.
 
@@ -28,15 +28,13 @@ A basic calculator app built using **HTML, CSS, and JavaScript**. It performs ba
 /simple-calculator
 │── index.html      # Main HTML file
 │── style.css       # Stylesheet for the app
+│── utils.css       # Stylesheet for the text in app
 │── script.js       # JavaScript file for calculator logic
 └── README.md       # Documentation
 ```
 
 ## Demo
-You can check out a live demo [here](#) (replace with actual link if hosted).
+You can check out a live demo [https://calculator-app-by-aritra.netlify.app/]()
 
 ## Screenshot
-![Calculator Screenshot](screenshot.png) (Replace with actual screenshot file)
-
-## License
-This project is open-source and available under the [MIT License](LICENSE). Feel free to modify and share!
+![Calculator Screenshot](screenshot.png)
