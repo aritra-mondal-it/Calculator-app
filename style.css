@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Motserrat', sans-serif;
+}
+html {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(45deg, #07deed, #3a4452);
+}
+.text-center{
+  color: #e0d7d7;
+  padding: 30px;
+}
+.container{
+  border: 1px solid #e0d7d7;
+  paddig: 20px;
+  border-radius: 16px;
+  background: transparent;
+  box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+}
+button{
+  height: 60px;
+  width: 60px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 1px solid black;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: white;
+  font-size: 1.5rem;
+}
+button:hover{
+  background-color: #e0dcdc;
+}
+button:active{
+  background-color: #e5e0e0;
+}
+.button-operator{
+  height: 60px;
+  width: 60px;
+  padding: px;
+  margin: 0 3px;
+  border: 1px solid black;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: #e5e0e0;
+  font-size: 1.5rem;
+  color: green;
+}
+button-operator:hover{
+  background-color: #ffffff;
+}
+button:active{
+  background-color: #ffffff;
+}
+.button-operator-red{
+  height: 60px;
+  width: 60px;
+  padding: 0px;
+  margin: 0 3px;
+  border: 1px solid black;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: #e5e0e0;
+  font-size: 1.5rem;
+  color: red;
+  align-items: center;
+}
+button-operator:hover{
+  background-color: #ffffff;
+}
+button:active{
+  background-color: #ffffff;
+}
+.button-operator-green{
+  height: 60px;
+  width: 60px;
+  padding: 0px;
+  margin: 0 3px;
+  border: 1px solid black;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: #05a33c;
+  font-size: 1.5rem;
+  color: white;
+  align-items: center;
+}
+button-operator:hover{
+  background-color: #ffffff;
+}
+button:active{
+  background-color: #ffffff;
+}
+.row{
+  margin: 8px 0;
+}
+.row input{
+  font-size: 1.4rem;
+  margin: 0;
+  padding: 15px 0px;
+  border: 2px solid black;
+  border-radius: 15px;
+}
